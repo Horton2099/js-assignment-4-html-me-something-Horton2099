@@ -1,1 +1,47 @@
 /* Write your CSS here! */
+h1 {
+    font-family: 'Lugrasimo', cursive;
+    text-align: center;
+}
+body {
+    background-color: rgb(209, 191, 28);
+    margin: 8px;
+    display:block;
+}
+.pic {
+    margin: 10px;
+    max-width: 100%;
+
+}
+#mainHeading {
+    color:red;
+}
+#testP {
+    color:green;
+}
+p {
+    margin:12px;
+}
+
+img {
+    max-width: 100%;
+    height:auto;
+}
+
+dl {
+    margin: 15;
+    border: 5;
+    background-color: azure;
+}
+
+dt {
+    text-align:center;
+    text-shadow: rebeccapurple;
+    text-transform: uppercase;
+}
+
+figcaption {
+    font-size: small;
+    color:chocolate;
+}
+
